@@ -1,74 +1,98 @@
+
 # Mobile Sales Dashboard | Power BI
 
 ## Project Overview
+This project presents an interactive Mobile Sales Dashboard developed using Microsoft Power BI. The dashboard provides comprehensive insights into sales performance across different cities, mobile brands, payment methods, customer ratings, and time periods.
 
-This project presents an interactive Mobile Sales Dashboard developed in Microsoft Power BI to analyze mobile sales performance across different cities, brands, payment methods, and time periods.
+It enables business users to monitor KPIs, analyze trends, and compare current sales with previous year performance for informed decision-making. 
 
-The dashboard enables users to explore sales trends, monitor KPIs, and compare current performance with the previous year for better business insights.
+## Objectives
+- Monitor overall sales performance
+- Analyze monthly and yearly sales trends
+- Compare current sales with previous year
+- Track customer purchasing behavior
+- Identify top-performing mobile brands
+- Evaluate payment method distribution
+- Monitor city-wise sales performance
+- 
+### 1. Dashboard Overview
+Displays key business KPIs including:
+- Total Sales
+- Units Sold
+- Total Transactions
+- Average Selling Price
 
-## Dashboard Features
-✔ Total Sales KPI
-✔ Total Quantity Sold
-✔ Total Transactions
-✔ Average Selling Price
-✔ Sales by City (Map)
-✔ Monthly Sales Trend
-✔ Sales by Mobile Model
-✔ Sales by Day Name
-✔ Transactions by Payment Method
-✔ Customer Rating Analysis
-✔ Month-to-Date (MTD) Report
-✔ Same Period Last Year Comparison
-✔ Quarterly Sales Comparison
+Interactive visuals include:
+- Sales by City (Map)
+- Monthly Units Sold Trend
+- Customer Rating Analysis
+- Transactions by Payment Method
+- Sales by Mobile Model
+- Sales by Day
+- 
+### 2. MTD (Month-To-Date) Report
+Shows:
+- Daily MTD Sales Progress
+- Monthly Performance
+- KPI Cards
+- Interactive Year Filter
+  
+### 3. Same Period Last Year Report
+Provides year-over-year comparison through:
+- Sales vs Previous Year
+- Monthly Comparison
+- Quarterly Comparison
+- Yearly Comparison
+- Sales Summary Table
 
+## Key KPIs
+- Total Sales
+- Units Sold
+- Total Transactions
+- Average Price
+- Customer Ratings
+- Payment Method Distribution
+- Sales by City
+- Sales by Mobile Model
+  
 ## Tools Used
 - Microsoft Power BI
 - Power Query
 - DAX
 - Data Modeling
 - Data Visualization
+- Business Intelligence
+- 
+## Skills Demonstrated
+- Data Cleaning
+- Data Transformation
+- KPI Dashboard Design
+- Interactive Slicers
+- DAX Measures
+- Business Reporting
+- Storytelling with Data
+- 
+## Project Files
+ Dashboard
+- Mobile_Sales_Dashboard.pbix
+- Mobile_Sales_Dashboard.pdf
+- 
+ Dataset
+- Mobile_Sales_Data.xlsx
+
+ Images
+- Dashboard_Overview.png
+- MTD_Report.png
+- Same_Period_Last_Year.png
   
-##Provides a complete summary of:
-- Sales KPIs
-- City-wise Sales
-- Monthly Quantity Trend
-- Mobile Model Performance
-- Payment Method Analysis
-- Customer Ratings
-
-### MTD Report
-Displays Month-to-Date Sales Performance with interactive date filtering.
-
-### Same Period Last Year Report
-Displays Same Period Last Year Sales Performance with interactive date filtering.
-
-Compares:
-- Current Year vs Previous Year Sales
-- Monthly Comparison
-- Quarterly Comparison
-- Yearly Comparison
-  
-## Business Insights
-- Track overall sales performance.
-- Identify top-performing cities.
-- Compare yearly growth.
-- Analyze payment preferences.
-- Evaluate product performance.
-- Monitor monthly sales trends.
-
-## Files Included
-- Mobile-Sales-Analytics-PowerBI
-│── README.md
-│── Mobile_Sales_Data.pbix
-│── Mobile_Sales_Data.xlsx
-│── Mobile_Sales_Dashboard.pdf
-
 ## Author
 
-Rishabh Soni
+mRishabh Soni
+
+### Connect with Me
 
 LinkedIn:
-(https://www.linkedin.com/in/rishabhsoni1111/)
+https://www.linkedin.com/in/rishabhsoni1111/
 
 GitHub:
-(Add your GitHub Profile URL)
+https://github.com/yourusername
