@@ -47,7 +47,7 @@ Compares:
 - Monthly Comparison
 - Quarterly Comparison
 - Yearly Comparison
-- 
+  
 ## Business Insights
 - Track overall sales performance.
 - Identify top-performing cities.
