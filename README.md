@@ -14,7 +14,7 @@ It enables business users to monitor KPIs, analyze trends, and compare current s
 - Identify top-performing mobile brands
 - Evaluate payment method distribution
 - Monitor city-wise sales performance
-- 
+  
 ### 1. Dashboard Overview
 Displays key business KPIs including:
 - Total Sales
@@ -29,7 +29,7 @@ Interactive visuals include:
 - Transactions by Payment Method
 - Sales by Mobile Model
 - Sales by Day
-- 
+  
 ### 2. MTD (Month-To-Date) Report
 Shows:
 - Daily MTD Sales Progress
@@ -62,7 +62,7 @@ Provides year-over-year comparison through:
 - Data Modeling
 - Data Visualization
 - Business Intelligence
-- 
+  
 ## Skills Demonstrated
 - Data Cleaning
 - Data Transformation
@@ -71,23 +71,23 @@ Provides year-over-year comparison through:
 - DAX Measures
 - Business Reporting
 - Storytelling with Data
-- 
+  
 ## Project Files
- Dashboard
-- Mobile_Sales_Dashboard.pbix
-- Mobile_Sales_Dashboard.pdf
-- 
- Dataset
-- Mobile_Sales_Data.xlsx
 
- Images
-- Dashboard_Overview.png
-- MTD_Report.png
-- Same_Period_Last_Year.png
+### Dashboard
+- [Mobile_Sales_Dashboard.pbix](Mobile_Sales_Dashboard.pbix)
+- [Mobile_Sales_Data.pbix_pdf](Mobile_Sales_Data.pbix.pdf)
+
+### Dataset
+- [Mobile Sales Data.xlsx](Mobile%20Sales%20Data.xlsx)
+
+### Dashboard Images
+- [Dashboard Overview](Dashboard_Overview.png)
+- [MTD Report](MTD_Report.png)
+- [Same Period Last Year](Same_Period_Last_Year.png)
   
 ## Author
-
-mRishabh Soni
+Rishabh Soni
 
 ### Connect with Me
 
