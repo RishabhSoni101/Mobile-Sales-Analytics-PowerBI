@@ -57,7 +57,7 @@ Compares:
 - Monitor monthly sales trends.
 
 ## Files Included
-- Power BI (.pbix)
+- Power BI.pbix
 - Dashboard PDF
 - Dataset
 - Dashboard Screenshots
