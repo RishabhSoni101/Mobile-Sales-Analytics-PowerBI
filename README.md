@@ -57,10 +57,11 @@ Compares:
 - Monitor monthly sales trends.
 
 ## Files Included
-- Power BI (.pbix)
-- Dashboard PDF
-- Dataset
-- Dashboard Screenshots
+- Mobile-Sales-Analytics-PowerBI
+│── README.md
+│── Mobile_Sales_Data.pbix
+│── Mobile_Sales_Data.xlsx
+│── Mobile_Sales_Dashboard.pdf
 
 ## Author
 
